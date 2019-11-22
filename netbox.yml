@@ -1,5 +1,3 @@
----
-
 plugin: netbox
 api_endpoint: http://172.20.100.31:8080
 token: 0ebcf2043c8f658513abe4ac1622ece351d673e2
